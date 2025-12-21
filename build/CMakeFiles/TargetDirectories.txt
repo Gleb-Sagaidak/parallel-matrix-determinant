@@ -1,0 +1,3 @@
+/home/zhmykh/CLionProjects/algorithm/build/CMakeFiles/algorithm.dir
+/home/zhmykh/CLionProjects/algorithm/build/CMakeFiles/edit_cache.dir
+/home/zhmykh/CLionProjects/algorithm/build/CMakeFiles/rebuild_cache.dir
